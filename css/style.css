@@ -52,7 +52,7 @@ body {
   position: relative;
 }
 /* Category Grid CSS */
-subHeading {
+.subHeading {
   text-align: center;
   border-bottom: 2px solid black;
   width: 300px;
